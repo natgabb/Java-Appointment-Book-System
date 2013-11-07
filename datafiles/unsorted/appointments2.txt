@@ -1,0 +1,30 @@
+2011*09*29*10*30*Brian*Loo*(514)741-8734*Clean the fan
+2011*09*31*09*00*Cora*Kamali*(514)123-3571*Upgrade RAM
+2011*10*01*09*30*Colin*Ong*(514)236-9346*Install Drivers
+2011*10*04*13*30*Eric*Ali*(514)698-8886*Fix Sound
+2011*10*09*14*00*Jenifer*Derp*(514)874-3569*Create Wireless Network
+2011*10*11*08*30*Sara*Saint*(514)412-4353*Change CPU fan
+2011*10*12*10*30*Samira*Akhavan*(514)528-9785*By new laptop
+2011*09*01*09*00*Alireza*Kamali*(514)661-4726*Fix laptop
+2011*11*07*08*00*Catherine*Ong*(514)284-4567*Install windows
+2011*11*06*13*30*Sophie*Leduc*(514)456-6785*Call the Boss
+2011*11*10*10*00*Alex*Simon*(514)668-3673*Clean monitors
+2011*10*14*10*30*Alan*ly*(514)353-0245*change the RAM
+2011*10*15*08*00*Ashley*Gomez*(514)159-6552*format the hard drive
+2011*10*19*8*00*Betty*Lee*(514)357-9873*Remove Spyware
+2011*09*24*11*30*Amin*Damyar*(514)369-9525*Update the OS
+2011*11*26*14*00*Hana*Montana*(514)261-9562*Replace laptop Keyboard
+2011*11*28*09*30*Krystel*Butax*(514)851-0235*Install Lion OS
+2011*09*27*11*00*Pedram*Rasti*(514)987-3164*Remove password
+2011*10*15*08*30*Tien*Loo*(514)332-2255*Network Consulting
+2011*10*15*11*30*Michael*Kamali*(514)112-3254*Install Ubuntu
+2011*10*25*10*00*Matyam*Talebi*(514)335-9531*Recover lost data
+2011*10*28*13*30*Ghazanfar*Tork*(514)998-7513*Shred unwanted data
+2011*11*01*08*00*Reza*Rose*(514)987-2580*Upgrade HDD
+2011*11*03*10*30*Bianca*Bochare*(514)658-3698*Fix Printer Driver
+2011*11*05*14*00*Christopher*Blunk*(514)755-8741*Install Microsoft Office
+2011*11*08*08*00*chenel*Lutana*(514)637-4123*Create New User
+2011*11*08*09*00*Elizabeth*Curci*(514)561-2369*Remove Viruses
+2011*11*08*13*30*Emily*Brown*(514)601-7766*change power supply
+2011*11*19*11*00*Gian*Trex*(514)361-6633*Replace battery
+2011*11*30*11*30*Louis*Philip*(514)361-3595*Create New Partition

@@ -1,0 +1,30 @@
+2011*9*21*8*30*Anthony*Smith*(514)123-4567*Create Gym Program
+2011*9*24*14*00*Mike*Lang*(514)985-8876*General Training
+2011*9*25*10*00*Emily*Bermejo*(514)222-4567*Cardio
+2011*9*24*11*30*Bianca*Zimmerman*(514)607-4430*Cardio
+2011*9*27*13*30*Jane*Black*(514)456-7892*Physiotherapy
+2011*10*14*11*00*Yan*Proux*(514)923-7801*General Training
+2011*10*15*16*00*Jhon*St.Croix*(514)221-3090*Meal Plan
+2011*10*18*13*30*Matthew*Mcfern*(514)667-1000*Physiotherapy
+2011*10*23*10*30*Jenna*Mctavish*(514)890-6589*Cardio
+2011*10*29*9*00*Mary*Nadal*(514)999-3291*Resistance Training
+2011*11*1*10*00*Harry*Blanche*(514)341-0067*Physiotherapy
+2011*11*5*14*00*Justin*Pitt*(514)454-9710*Physiotherapy
+2011*11*7*13*30*Alexis*Taylor*(514)712-2277*Meal Plan
+2011*11*9*15*00*Logan*Dimitri*(514)671-4201*Create Gym Program
+2011*9*28*9*30*David*Woo*(514)768-1200*Resistance Training
+2011*9*21*16*00*Brent*Mates*(514)887-4380*Create Gym Program
+2011*9*22*9*00*Bradley*Miller*(514)675-4523*Resistance Training
+2011*9*24*14*30*Mellisa*Berry*(514)523-7659*Cardio
+2011*9*31*15*30*James*O'Donald*(514)990-1111*Meal Plan
+2011*10*1*10*30*Erica*Fox*(514)667-1267*General Training
+2011*10*4*16*00*Fred*Koulaxazov*(514)545-8383*Meal Plan
+2011*10*8*10*00*Patrick*Renolds*(514)910-4467*Resistance Training
+2011*10*11*16*00*Diane*Price*(514)789-3454*Cardio
+2011*10*12*8*00*Rachael*Ming*(514)132-3201*Create Gym Program
+2011*11*12*11*30*Jessica*O'Brian*(514)781-7844*Meal Plan
+2011*11*14*15*30*Carrie*Lee*(514)124-8456*Cardio
+2011*11*19*11*00*Jamie*Sharapova*(514)771-6709*General Training
+2011*11*26*10*00*Laura*Levesque*(514)330-8961*Create Gym Program
+2011*11*23*16*00*Morris*Degrasi*(514)934-4321*Physiotherapy
+2011*11*31*11*00*Zoe*Carbonneau*(514)370-6210*General Gym Training

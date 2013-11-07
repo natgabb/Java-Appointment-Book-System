@@ -1,0 +1,30 @@
+2011*09*17*8*00*Gary*Swanson*(514)555-0273*Wisdom tooth removal
+2011*09*25*9*30*Patricia*Levesque*(514)555-5280*Root canal
+2011*09*29*10*30*Simon*Lenoir*(514)555-4241*Check-up
+2011*09*21*11*30*Scott*Boudreau*(514)555-3199*Check-up
+2011*09*19*14*00*Jimmy*Levesque*(514)555-2946*Denture fitting
+2011*09*26*9*00*Chris*Allard*(438)881-0273*Check-up
+2011*09*20*11*30*Scott*Boudreau*(514)555-3199*Cavity filling
+2011*10*04*14*00*Jimmy*Levesque*(514)555-2946*Check-up
+2011*10*05*8*00*James*Smith*(438)555-4202*Check-up
+2011*10*05*10*00*Lisa*Parker*(514)555-7952*Cavity filling
+2011*10*07*9*30*George*Baker*(450)555-9271*X-ray
+2011*10*07*13*30*Sarah*Murphy*(450)555-9353*Braces
+2011*10*09*9*00*Alex*Newman*(438)555-7874*Check-up
+2011*10*09*14*00*Jessica*Campbell*(514)555-6335*Check-up
+2011*10*11*8*30*Jason*Roberts*(438)555-4230*Cavity filling
+2011*10*11*10*00*Shannon*Evans*(514)555-9777*X-ray
+2011*10*14*9*30*John*Walker*(450)555-1398*Braces
+2011*10*16*14*30*Emilie*Leblanc*(514)555-8881*Check-up
+2011*11*01*11*00*James*Giroux*(438)868-5004*Check-up
+2011*11*03*9*00*Audrey*Boissy*(514)555-8686*Check-up
+2011*11*05*15*00*James*Giroux*(438)868-5004*Cavity filling
+2011*11*06*14*00*Derick*Giroux*(514)555-2142*Check-up
+2011*11*08*15*00*Audrey*Boissy*(514)555-8686*Cavity filling
+2011*11*10*11*00*Kierra*Dagenais*(514)555-3244*Check-up
+2011*11*20*8*00*Derick*Giroux*(514)555-2142*Root canal
+2011*11*20*11*00*Kierra*Dagenais*(514)555-3244*Cavity filling
+2011*11*21*14*00*Audrey*Boissy*(514)555-8686*Wisdom tooth removal
+2011*11*22*10*00*Chris*Allard*(438)881-0273*Cavity filling
+2011*11*22*15*00*James*Giroux*(438)868-5004*Cavity filling
+2011*11*23*8*00*Gary*Swanson*(514)555-0273*Check-up

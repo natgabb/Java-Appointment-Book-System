@@ -1,0 +1,30 @@
+2011*9*24*8*30*Jacob*Matthews*(514)932-4985*Doctor's office
+2011*9*25*14*00*Ethan*Thomas*(514)897-0956*Go to client's house
+2011*9*28*9*30*Michael*Williams*(514)789-0987*Get X-ray
+2011*9*28*15*30*Jayden*Hoyte*(514)456-7892*Get braces tightened 
+2011*9*21*16*30*Teresa*Marie*(514)492-4947*Pedicure
+2011*9*25*8*00*William*Roberts*(514)678-9876*Hair Coloring
+2011*9*27*8*00*Michelle*Hitom*(514)208-5678*Make-up Session
+2011*9*20*14*00*Layla*Routy*(514)876-1256*Teeth whitening
+2011*9*22*11*30*Tom*Erion*(514)678-3745*Physiotherapy
+2011*9*26*10*00*Renee*Weare*(514)765-4567*Manicure
+2011*10*1*13*30*Andrew*Walker*(514)789-3451*Teeth cleaning
+2011*10*3*15*30*David*Tyone*(514)989-9876*See a financial planner
+2011*10*4*10*30*Marie*Fione*(514)675-8765*Waxing
+2011*10*4*9*00*Craig*Whistle*(514)456-2876*Restaurant reservation
+2011*10*8*8*30*Lisa*James*(514)595-3496*Fundraiser event
+2011*10*14*11*00*Curtis*Ghost*(514)364-0984*Meet with publisher
+2011*10*16*14*30*Matthew*Kart*(514)567-2836*Staff meeting
+2011*10*22*10*30*Valerie*Quon*(514)384-6392*Family dinner
+2011*10*25*15*00*Kelsey*Wind*(514)363-9568*Go to couple's therapy
+2011*10*29*14*00*John*Doe*(514)595-2873*Meet with divorce lawyer
+2011*11*5*9*00*Bob*Dylan*(514)345-6678*Family photo
+2011*11*7*9*00*Lauren*John*(514)567-1256*See Notary
+2011*11*9*8*30*Joe*Kramer*(514)765-3645*Court date
+2011*11*10*11*00*Corey*Fernandes*(514)678-1567*Optometrist
+2011*11*12*8*30*Jennifer*Whale*(514)898-6765*Dance recital
+2011*11*16*9*00*Penelope*Seal*(514)984-0912*High school reunion
+2011*11*23*10*00*Lina*Bird*(514)564-2837*Christmas Party
+2011*11*27*14*30*Sophie*Manning*(514)653-4780*Mother's birthday
+2011*11*28*15*30*Bill*Simon*(514)674-3456*Driving exam
+2011*11*28*16*30*Samantha*Cole*(514)846-3225*Contractor

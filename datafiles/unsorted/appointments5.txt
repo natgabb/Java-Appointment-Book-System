@@ -1,0 +1,29 @@
+2011*9*24*11*30*Jerry*Springer*(514)123-4321*Get contestants
+2011*10*4*13*30*Bob*Dylan*(514)313-4412*Vocal training
+2011*10*5*8*30*Mike*Smith*(514)363-4564*Supervisor's meeting
+2011*10*18*14*30*John*Smith*(514)363-4664*Check mecanician
+2011*10*25*10*00*Bob*Smith*(514)363-6458*Repair computer
+2011*11*12*15*30*Russell*Peters*(514)957-2752*Buy jokes
+2011*9*24*8*00*Sugar*Sammy*(514)728-1852*Ask about Russel's purchased jokes
+2011*9*24*9*00*Dave*Chapelle*(514)592-5836*Force me to stop selling jokes
+2011*9*24*10*00*Tim*McVowel*(514)296-9735*Buy a Vowel model car
+2011*9*24*8*30*Joe*Morris*(514)884-3642*Change tires
+2011*9*27*11*00*Stan*Middleton*(450)553-6453*Change oil
+2011*9*28*9*30*Stewie*Griffin*(514)330-6540*Change headlights
+2011*9*22*9*30*Claude*Peltier*(514)631-0054*change muffler
+2011*10*7*9*30*Dawson*Smith*(514)363-8779*Lawyer meeting
+2011*10*21*13*30*Harison*Smith*(514)363-1123*Dentist meeting
+2011*10*28*15*00*Carole*Smith*(514)363-8559*Political party meeting
+2011*10*9*14*30*Britney*Spears*(514)792-2862*Donate to charity
+2011*10*10*13*30*Lady*Gaga*(514)926-1962*Therapy
+2011*10*2*10*30*Sara*Smith*(514)363-6423*School meeting
+2011*10*11*11*30*Laura*Smith*(514)363-6549*Family meeting
+2011*10*19*10*00*Nelson*Smith*(514)363-4588*Doctor's meeting
+2011*10*24*16*00*Ken*Smith*(514)363-8895*Travel agent meeting
+2011*10*4*14*00*Carter*Jones*(514)530-6341*modifying headlights
+2011*11*12*16*00*Han*Solo*(514)663-5547*change muffler
+2011*11*15*16*00*Emmett*Brown*(514)530-4506*Modify capacitor
+2011*11*1*15*00*Laurent*Quinn*(514)663-4211*Change engine
+2011*11*3*9*00*Mortey*McFine*(450)635-4882*yearly chechup
+2011*11*5*13*30*Stephanie*Desjardins*(450)652-3341*Paint job
+2011*11*13*14*00*Tiger*Woods*(514)923-2862*Golf practice
